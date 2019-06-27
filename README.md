@@ -5,4 +5,4 @@ A Stormworks Bouy network
 The Self positioning bouys can dropped from a bomber in Stormworks.
 
 # What's our Goal?
-Our goal is to make a stabil system for commmiunication and Rescue in Stormworks. 
+Our goal is to make a stabil system for commmunication and rescue in Stormworks. 
