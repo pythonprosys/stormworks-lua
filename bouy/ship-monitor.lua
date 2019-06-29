@@ -9,5 +9,7 @@ function onTick()
   zoomofmap = input.getNumber(8)
 end  
 function onDraw()
+  if rain > 0.8 then
+    screen.drawMap(xbouy, ybouy, zoom)
   screen.drawMap(x, y, zoomofmap)
 end
